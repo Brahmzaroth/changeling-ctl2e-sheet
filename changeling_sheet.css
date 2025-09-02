@@ -13,7 +13,7 @@ body {
   page-break-after: always;
 }
 
-.page1 { background-image: url("images/background_page1.png"); }
+.page1 { background-image: url("https://raw.githubusercontent.com/Brahmzaroth/changeling-ctl2e-sheet/refs/heads/main/images/background_page1.png"); }
 .page2 { background-image: url("images/background_page2.png"); }
 .page3 { background-image: url("images/background_page3.png"); }
 .page4 { background-image: url("images/background_page4.png"); }
