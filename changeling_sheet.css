@@ -1,0 +1,19 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.sheet-page {
+  width: 100%;
+  min-height: 100vh;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: top center;
+  page-break-after: always;
+}
+
+.page1 { background-image: url("images/background_page1.png"); }
+.page2 { background-image: url("images/background_page2.png"); }
+.page3 { background-image: url("images/background_page3.png"); }
+.page4 { background-image: url("images/background_page4.png"); }
